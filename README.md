@@ -32,7 +32,7 @@ and preparing data for dashboards, automation, or reporting.
 
 ### 🔹 1️⃣ Retail Sales Data Cleaning (Single-File Cleaning)
 Cleaned a messy retail dataset by handling missing values, fixing inconsistencies, and preparing it for reporting.  
-🔗 Repo: https://github.com/Manu-25-ai/nike-sales-cleaning (replace with correct link if needed)
+🔗 Repo: https://github.com/Manu-25-ai/Nike_Sales_Uncleaned_data-cleaning
 
 ---
 
@@ -60,7 +60,7 @@ Cleaned and merged multiple CSV files (customers, products, orders, payments) in
 ## 📬 Contact Me
 
 📧 Email: imanuchauhan0@gmail.com  
-🔗 LinkedIn: (paste your LinkedIn profile link)  
+🔗 LinkedIn: https://www.linkedin.com/in/data-analyst-aspirant-manu-chauhan  
 
 ---
 
