@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Manu — Data Cleaning & Analytics Freelancer
 
-I help businesses turn messy spreadsheets and raw datasets into clean, structured, and analysis-ready files.  
-My focus is practical, real-world cleaning — not just dropping nulls, but resolving inconsistencies, validating logic,  
-and preparing data for dashboards, automation, or reporting.
+💡 I help businesses turn messy spreadsheets and raw data into clean, structured, and analysis-ready datasets.  
+My work focuses on **practical, real-world cleaning** — fixing inconsistencies, validating values, merging multiple sources, and preparing data for reporting, dashboards, or automation.
 
 ---
 
@@ -30,20 +29,30 @@ and preparing data for dashboards, automation, or reporting.
 
 ## 📂 Featured Projects
 
-### 🔹 1️⃣ Retail Sales Data Cleaning (Single-File Cleaning)
-Cleaned a messy retail dataset by handling missing values, fixing inconsistencies, and preparing it for reporting.  
+### 🔹 1️⃣ Retail Sales Data Cleaning (Single-File Cleanup)
+🧹 Cleaned a raw retail dataset by fixing missing values, standardizing data types, and preparing it for analysis.  
+**Key highlights:**  
+- Handled null values and inconsistent fields  
+- Created a clean, ready-to-use CSV   
 🔗 Repo: https://github.com/Manu-25-ai/Nike_Sales_Uncleaned_data-cleaning
 
 ---
 
-### 🔹 2️⃣ Sales Cleaning + Reporting Insights
-Cleaned and analyzed a sales dataset, created KPIs and visual charts to support business reporting.  
+### 🔹 2️⃣ Sales Cleaning + Reporting Insights  
+📊 Cleaned and analyzed a sales dataset, engineered new features, and created business insights with visuals.  
+**Key highlights:**  
+- Reconstructed missing revenue values logically  
+- Visualized seasonality, product performance, and customer patterns  
 🔗 Repo: https://github.com/Manu-25-ai/snitch-sales-data-cleaning-for-reporting
 
 ---
 
-### 🔹 3️⃣ Multi-File E-Commerce Cleaning & Consolidation
-Cleaned and merged multiple CSV files (customers, products, orders, payments) into one master dataset ready for analysis.  
+### 🔹 3️⃣ Multi-File E-Commerce Cleaning & Consolidation  
+⚙️ Cleaned and merged multiple CSV files (customers, products, orders, payments) into one master dataset.  
+**Key highlights:**  
+- Standardized date formats and numeric values  
+- Detected inconsistencies between expected vs paid amounts  
+- Engineered reporting-friendly fields: `order_month`, `order_year`, `payment_issue`, etc.  
 🔗 Repo: https://github.com/Manu-25-ai/Multi-File-Cleaning
 
 ---
